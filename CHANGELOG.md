@@ -1,4 +1,7 @@
 ## What's Changed
+* Merge pull request #12 from MrMic/L186
+* feat: Store Auth Tokens on the Device & automatic Login
+* update: CHANGELOG.md
 * Merge pull request #11 from MrMic/L185
 * feat: Access protected resources
 * Merge pull request #10 from MrMic/L184
